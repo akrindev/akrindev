@@ -5,17 +5,19 @@
 
 Here are some ideas to get you started:
 -->
+
+
 - 🔭 I’m currently working on my own projects
 - 🌱 I’m currently learning `.go`, `.js`, `.ts`, `.php`.
 <!-- - 👯 I’m looking to collaborate on -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...
+<!-- - 🤔 I’m looking for help with ... 
+- 💬 Ask me about ... -->
 - 📫 How to reach me: tweet me [@akrinart](https://twitter.com/Akrinart)
 - 😄 Pronouns: krin
 
 
 ### Github Stats
-![Akrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrindev&show_icons=true&theme=react)
+![Akrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrindev&show_icons=true&theme=react&count_private=true)
 
 ### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrindev&hide=blade,html&langs_count=4)](https://github.com/akrindev)
