@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my own projects
-- 🌱 I’m currently learning `.go`, `.js`, `.ts`, `.php`.
+- 🌱 I’m currently learning `.go`, `.js`, `.jsx`, `.ts`, `.php`.
 <!-- - 👯 I’m looking to collaborate on -->
-<!-- - 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... -->
+<!-- - 🤔 I’m looking for help with ... -->
+- 💻 mostly in `laravel`, `react`, but not limited to.
 - 📫 How to reach me: tweet me [@akrinart](https://twitter.com/Akrinart)
 - 😄 Pronouns: krin
 
