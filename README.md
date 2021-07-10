@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 - 💻 mostly in `laravel`, `react`, but not limited to.
 - 📫 How to reach me: tweet me [@akrinart](https://twitter.com/Akrinart)
-- 😄 Pronouns: krin
+- 😄 Pronouns: He/Him
 
 
 ### Github Stats
