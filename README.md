@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on my own projects
+- 🔭 I’m currently working on my own projects and @smeducative
 - 🌱 I’m currently learning `.go`, `.js`, `.jsx`, `.ts`, `.php`.
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with ... -->
