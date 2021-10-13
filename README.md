@@ -19,5 +19,10 @@ Here are some ideas to get you started:
 ### Github Stats
 ![Akrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrindev&show_icons=true&theme=react&count_private=true)
 
-### Top Langs
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### Top Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrindev&hide=blade,html&langs_count=4)](https://github.com/akrindev)
