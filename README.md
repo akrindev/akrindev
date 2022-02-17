@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -58,7 +58,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2022 02:03:29 UTC
+ Last Updated on 17/02/2022 00:47:20 UTC
 <!--END_SECTION:waka-->
 
 ### Top Used Languages
