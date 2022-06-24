@@ -63,5 +63,4 @@ Blade                    4 repos             ██░░░░░░░░░�
  Last Updated on 24/06/2022 01:18:21 UTC
 <!--END_SECTION:waka-->
 
-### Top Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrindev&hide=blade,html&langs_count=4)](https://github.com/akrindev)
+![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
