@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      6 mins              █████████████░░░░░░░░░░░░   51.66% 
-Blade Template           5 mins              ████████████░░░░░░░░░░░░░   48.34%
+PHP                      3 mins              ██████████████████████░░░   91.43% 
+Blade Template           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+VS Code                  4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.0% 
+Windows                  4 mins              █████████████████████████   100.0% 
 WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -57,7 +57,7 @@ Blade                    4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2022 01:28:15 UTC
+ Last Updated on 09/07/2022 01:14:28 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
