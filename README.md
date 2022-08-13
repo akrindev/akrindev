@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: tweet me [@akrinart](https://twitter.com/Akrinart)
 - 😄 Pronouns: He/Him
 
-# Tech used
+### Tech used
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -84,7 +84,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
 
 
-# Reach me
+### Reach me
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Akrinart)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ](https://discordapp.com/users/561994027054923863)
