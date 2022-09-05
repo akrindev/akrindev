@@ -40,31 +40,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               1 hr 24 mins        █████████░░░░░░░░░░░░░░░░   37.63% 
-PHP                      1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   35.67% 
-Blade Template           31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.48% 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
-
-🔥 Editors: 
-VS Code                  3 hrs 44 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    2 hrs 11 mins       ██████████████░░░░░░░░░░░   58.6% 
-WSL                      1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   35.13% 
-Windows                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.27%
-
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -79,7 +57,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 01:42:30 UTC
+ Last Updated on 05/09/2022 01:52:58 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
