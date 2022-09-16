@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on my personal projects and @smeducative
-- 🌱 I’m currently learning `.dart`, `.js`, `.jsx`, `.ts`, `.php`.
+- 🔭 I’m currently working on my personal projects, [@smeducative](https://github.com/smeducative) and [@creasico](https://github.com/creasico)
+- 🌱 I’m currently learning `.js`, `.jsx`, `.ts`, `.tsx`. `.vue`, `.php`.
 <!-- - 👯 I’m looking to collaborate on -->
 <!-- - 🤔 I’m looking for help with ... -->
 - 💻 I'm mostly in `laravel`, `react`, but not limited to.
