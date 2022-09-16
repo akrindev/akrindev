@@ -44,6 +44,25 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      27 mins             ███████████████████░░░░░░   77.35% 
+Bash                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+Blade Template           1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.37% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31%
+
+🔥 Editors: 
+VS Code                  35 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+WSL                      35 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -57,7 +76,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2022 01:54:46 UTC
+ Last Updated on 16/09/2022 01:57:12 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
