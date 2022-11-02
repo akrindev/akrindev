@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-671%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,17 +50,17 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           6 hrs 55 mins       ████████████░░░░░░░░░░░░░   50.65% 
-PHP                      5 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   42.77% 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.01% 
-TypeScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+Blade Template           5 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.69% 
+PHP                      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.27% 
+Bash                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
+TypeScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95% 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.02%
 
 🔥 Editors: 
-VS Code                  13 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 12 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    13 hrs 40 mins      █████████████████████████   100.0%
+Linux                    12 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -77,7 +77,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2022 01:57:10 UTC
+ Last Updated on 02/11/2022 01:45:01 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
