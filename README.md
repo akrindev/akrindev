@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-816%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,17 +50,17 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           7 hrs 12 mins       █████████████░░░░░░░░░░░░   52.8% 
-PHP                      6 hrs 14 mins       ███████████░░░░░░░░░░░░░░   45.7% 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76% 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+PHP                      10 hrs 53 mins      ██████████████░░░░░░░░░░░   57.63% 
+Blade Template           7 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   40.56% 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 🔥 Editors: 
-VS Code                  13 hrs 38 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 53 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      8 hrs 27 mins       ███████████████░░░░░░░░░░   62.03% 
-Linux                    5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.97%
+Linux                    10 hrs 25 mins      █████████████░░░░░░░░░░░░   55.2% 
+WSL                      8 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.8%
 
 ```
 
@@ -77,7 +77,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2022 01:08:05 UTC
+ Last Updated on 26/12/2022 01:05:18 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
