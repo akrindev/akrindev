@@ -45,14 +45,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      12 mins             █████████████░░░░░░░░░░░░   50.61 % 
-Windows                  12 mins             ████████████░░░░░░░░░░░░░   49.39 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -68,7 +67,7 @@ Blade                    4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2023 01:06:40 UTC
+ Last Updated on 24/02/2023 01:08:56 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
