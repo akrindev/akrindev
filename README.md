@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-914%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-915%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,16 +45,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      23 mins             ██████████████░░░░░░░░░░░   55.29 % 
-Bash                     14 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
-JSON                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Vue.js                   59 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Bash                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+TypeScript               49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+PHP                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.00 % 
+VS Code                  4 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      42 mins             █████████████████████████   100.00 % 
+WSL                      4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -70,7 +71,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/04/2023 01:02:33 UTC
+ Last Updated on 10/04/2023 01:00:36 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
