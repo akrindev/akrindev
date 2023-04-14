@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -45,18 +45,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   7 hrs 29 mins       █████████████░░░░░░░░░░░░   52.45 % 
-PHP                      2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Vue.js                   7 hrs 49 mins       █████████████░░░░░░░░░░░░   52.51 % 
+PHP                      2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      13 hrs 39 mins      ████████████████████████░   95.63 % 
-Windows                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+WSL                      14 hrs 16 mins      ████████████████████████░   95.81 % 
+Windows                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2023 00:59:21 UTC
+ Last Updated on 14/04/2023 01:00:56 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
