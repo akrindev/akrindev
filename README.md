@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 
 
 ### Github Stats
-![Akrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrindev&show_icons=true&theme=react&count_private=true)
+| Last Year | All over |
+|-----|-----|
+|![Akrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrindev&show_icons=true&theme=react&count_private=true)|![Akrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=akrindev&show_icons=true&theme=react&count_private=true&include_all_commits=true)|
 
 ### 📊 Weekly Development Breakdown
 
