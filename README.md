@@ -80,6 +80,6 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 ### Reach me
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Akrinart)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/syakirinam)
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ](https://discordapp.com/users/561994027054923863)
