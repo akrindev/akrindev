@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with people like you :)
 <!-- - 🤔 I’m looking for help with ... -->
 - 💻 I'm mostly in `laravel`, `react`, but not limited to.
-- 📫 How to reach me: tweet me [@akrinart](https://twitter.com/Akrinart)
+- 📫 How to reach me: tweet me [@syakirinam](https://twitter.com/syakirinam)
 - 😄 Pronouns: He/Him
 
 ### Tech used
