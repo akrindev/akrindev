@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,17 +47,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   9 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.80 % 
-PHP                      7 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.27 % 
-Blade Template           2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-TypeScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Vue.js                   6 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.99 % 
+PHP                      6 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
+Blade Template           2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+TypeScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Groovy                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      20 hrs 9 mins       █████████████████████████   100.00 % 
+WSL                      16 hrs 53 mins      ████████████████████████░   96.87 % 
+Windows                  32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -73,7 +74,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2023 01:02:53 UTC
+ Last Updated on 04/08/2023 01:04:27 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
