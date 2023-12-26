@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C350%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,17 +48,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 31 mins       ██████████████░░░░░░░░░░░   55.48 % 
-PHP                      5 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.22 % 
-JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+TypeScript               13 hrs 28 mins      █████████████░░░░░░░░░░░░   52.42 % 
+PHP                      9 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.07 % 
+JSON                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Blade Template           20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  25 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      17 hrs 9 mins       █████████████████████████   100.00 % 
+WSL                      25 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -74,7 +74,7 @@ Vue                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2023 00:13:22 UTC
+ Last Updated on 26/12/2023 00:12:37 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
