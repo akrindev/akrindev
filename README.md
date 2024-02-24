@@ -48,14 +48,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      1 min               ███████████████████████░░   91.78 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -71,7 +70,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2024 00:12:03 UTC
+ Last Updated on 24/02/2024 00:11:58 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
