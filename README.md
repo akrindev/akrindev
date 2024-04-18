@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C527%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -74,7 +74,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2024 00:13:14 UTC
+ Last Updated on 18/04/2024 00:13:09 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
