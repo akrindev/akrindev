@@ -38,7 +38,29 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C618%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+PHP                      4 hrs 7 mins        █████████████░░░░░░░░░░░░   52.13 % 
+Blade Template           1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Docker                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 54 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      6 hrs 39 mins       █████████████████████░░░░   84.12 % 
+Windows                  1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -53,7 +75,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2024 00:16:32 UTC
+ Last Updated on 10/09/2024 00:15:42 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
