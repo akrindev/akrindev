@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -71,7 +73,7 @@ Vim Script               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2024 00:18:48 UTC
+ Last Updated on 03/12/2024 00:18:58 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
