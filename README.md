@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C820%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C825%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -48,17 +48,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           6 hrs 22 mins       █████████████░░░░░░░░░░░░   51.25 % 
-PHP                      5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.37 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Blade Template           7 hrs 28 mins       ██████████████░░░░░░░░░░░   54.88 % 
+PHP                      5 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
+TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 15 mins      ███████████████████████░░   90.12 % 
+Cursor                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 
 💻 Operating System: 
-WSL                      12 hrs 25 mins      █████████████████████████   100.00 % 
+WSL                      13 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +75,7 @@ Vim Script               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/02/2025 00:16:58 UTC
+ Last Updated on 27/02/2025 00:17:06 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
