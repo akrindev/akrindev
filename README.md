@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           1 hr 35 mins        ███████████████████░░░░░░   74.25 % 
-PHP                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+Blade Template           47 mins             ██████████████████░░░░░░░   71.42 % 
+PHP                      19 mins             ███████░░░░░░░░░░░░░░░░░░   28.58 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 9 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +71,7 @@ Vim Script               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2025 00:20:48 UTC
+ Last Updated on 02/04/2025 00:18:18 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
