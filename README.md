@@ -48,14 +48,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Blade Template           4 mins              ████████████████████████░   96.49 % 
-PHP                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -71,7 +70,7 @@ Vim Script               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2025 00:17:44 UTC
+ Last Updated on 06/04/2025 00:19:37 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
