@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my personal projects, [@smeducative](https://github.com/smeducative) and [@creasico](https://github.com/creasico)
-- 🌱 I’m currently learning `.js`, `.jsx`, `.ts`, `.tsx`. `.vue`, `.php`, Project Management and UI/UX Research.
+- 🌱 I’m currently working with `.ts`, `.tsx`. `.vue`, `.php`, Project Management, UI/UX Research and Artificial Intelligence.
 - 🤖 I'm particularly excited about diving into the world of AI engineering.
 - 👯 I’m looking to collaborate with people like you :)
 <!-- - 🤔 I’m looking for help with ... -->
