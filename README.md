@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C953%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -48,17 +48,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               12 hrs 1 min        ██████████░░░░░░░░░░░░░░░   40.81 % 
-Blade Template           10 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.26 % 
-PHP                      3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               13 hrs 38 mins      ███████████░░░░░░░░░░░░░░   44.11 % 
+Blade Template           7 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+PHP                      6 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🔥 Editors: 
-Cursor                   29 hrs 27 mins      █████████████████████████   100.00 % 
+Cursor                   30 hrs 55 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      29 hrs 27 mins      █████████████████████████   100.00 % 
+WSL                      30 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +74,7 @@ Vim Script               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2025 00:19:18 UTC
+ Last Updated on 15/05/2025 00:17:55 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
