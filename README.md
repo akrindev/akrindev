@@ -48,14 +48,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 8 mins              ██████████████░░░░░░░░░░░   56.59 % 
-C                        6 mins              ███████████░░░░░░░░░░░░░░   43.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,7 +70,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2025 00:21:05 UTC
+ Last Updated on 16/07/2025 00:20:44 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
