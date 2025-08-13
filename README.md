@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C048%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,18 +48,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 hrs 52 mins       █████████████░░░░░░░░░░░░   53.55 % 
-Blade Template           2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+PHP                      4 hrs 41 mins       ██████████████░░░░░░░░░░░   57.24 % 
+TypeScript               2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Blade Template           34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 6 mins        ██████████████████████░░░   89.26 % 
-Windsurf                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Cursor                   8 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      9 hrs 5 mins        █████████████████████████   100.00 % 
+WSL                      8 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,7 +74,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2025 00:19:48 UTC
+ Last Updated on 13/08/2025 00:20:25 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
