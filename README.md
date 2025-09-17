@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C092%20hrs%2030%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -48,15 +46,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      48 mins             ███████████████░░░░░░░░░░   60.02 % 
-TypeScript               32 mins             ██████████░░░░░░░░░░░░░░░   39.59 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+TypeScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.12 % 
+PHP                      48 mins             ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Cursor                   1 hr 21 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 23 mins        █████████████░░░░░░░░░░░░   50.74 % 
+Cursor                   1 hr 21 mins        ████████████░░░░░░░░░░░░░   49.26 % 
 
 💻 Operating System: 
-WSL                      1 hr 21 mins        █████████████████████████   100.00 % 
+WSL                      2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,7 +73,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 00:17:49 UTC
+ Last Updated on 17/09/2025 00:18:33 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
