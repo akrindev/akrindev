@@ -38,29 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.12 % 
-PHP                      48 mins             ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-YAML                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-
-🔥 Editors: 
-VS Code                  1 hr 23 mins        █████████████░░░░░░░░░░░░   50.74 % 
-Cursor                   1 hr 21 mins        ████████████░░░░░░░░░░░░░   49.26 % 
-
-💻 Operating System: 
-WSL                      2 hrs 45 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -75,7 +53,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 00:18:27 UTC
+ Last Updated on 20/09/2025 00:18:12 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
