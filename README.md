@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C265%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C267%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,13 +48,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 42 mins        ███████████████████████░░   91.43 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 52 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -70,7 +74,7 @@ Go                       6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2025 00:22:42 UTC
+ Last Updated on 22/12/2025 00:21:59 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
