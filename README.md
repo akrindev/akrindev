@@ -48,36 +48,36 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 31 mins       ████████████░░░░░░░░░░░░░   49.82 % 
-Markdown                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-PHP                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TypeScript               5 hrs 11 mins       █████████████░░░░░░░░░░░░   52.55 % 
+Markdown                 1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Python                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-OpenCode                 5 hrs 51 mins       █████████████████████░░░░   82.86 % 
-Antigravity              1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+OpenCode                 8 hrs 39 mins       ██████████████████████░░░   87.72 % 
+Antigravity              1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-WSL                      5 hrs 59 mins       █████████████████████░░░░   84.72 % 
-Windows                  1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+WSL                      8 hrs 47 mins       ██████████████████████░░░   89.06 % 
+Windows                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               27 repos            ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-JavaScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
 Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 
 
 
- Last Updated on 07/03/2026 00:25:47 UTC
+ Last Updated on 08/03/2026 00:26:49 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
