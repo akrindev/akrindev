@@ -48,19 +48,13 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        ███████████████████████░░   91.00 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-INI                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Antigravity              1 hr 39 mins        ███████████████████████░░   93.06 % 
-OpenCode                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 4 mins         ███████████████░░░░░░░░░░   60.59 % 
-WSL                      42 mins             ██████████░░░░░░░░░░░░░░░   39.41 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +70,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2026 00:24:15 UTC
+ Last Updated on 25/03/2026 00:28:07 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
