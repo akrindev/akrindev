@@ -48,29 +48,34 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 18 mins        ███████████████░░░░░░░░░░   59.22 % 
+PHP                      45 mins             █████████░░░░░░░░░░░░░░░░   34.20 % 
+Blade Template           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 7 mins        ████████████████████████░   96.08 % 
+OpenCode                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+TypeScript               28 repos            ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
+Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 
 
 
 
- Last Updated on 01/04/2026 00:33:48 UTC
+ Last Updated on 02/04/2026 00:28:28 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
