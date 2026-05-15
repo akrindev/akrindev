@@ -38,31 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C492%20hrs%2035%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               11 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   37.09 % 
-Other                    7 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Markdown                 5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-PHP                      2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-JSON                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-
-🔥 Editors: 
-OpenCode                 13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.46 % 
-Unknown Editor           7 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-VS Code                  7 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-Antigravity              2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-
-💻 Operating System: 
-WSL                      31 hrs 8 mins       █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in TypeScript** 
 
@@ -77,7 +53,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 00:46:12 UTC
+ Last Updated on 15/05/2026 00:43:44 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
