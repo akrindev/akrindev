@@ -42,20 +42,42 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               10 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   39.85 % 
+PHP                      6 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+Markdown                 3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+CSS                      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Svelte                   1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+
+🔥 Editors: 
+Unknown Editor           13 hrs 16 mins      █████████████░░░░░░░░░░░░   51.34 % 
+Opencode Cli             6 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+OpenCode                 5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+
+💻 Operating System: 
+WSL                      25 hrs 50 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               33 repos            ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+TypeScript               32 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
 Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Svelte                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 00:50:32 UTC
+ Last Updated on 30/05/2026 00:46:36 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
