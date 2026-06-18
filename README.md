@@ -48,36 +48,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   30.87 % 
-PHP                      1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Other                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Svelte                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+TypeScript               1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+PHP                      1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Python                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Other                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Git Config               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 48 mins       ███████████████████░░░░░░   75.82 % 
-Antigravityide           47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Opencode Cli             31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-OpenCode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+VS Code                  4 hrs 18 mins       ███████████████░░░░░░░░░░   60.84 % 
+Antigravityide           1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Codex CLI                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Opencode Cli             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+OpenCode                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 
 💻 Operating System: 
-WSL                      6 hrs 21 mins       █████████████████████████   100.00 % 
+WSL                      7 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               33 repos            ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               34 repos            ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Go                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
 
 
- Last Updated on 17/06/2026 00:55:14 UTC
+ Last Updated on 18/06/2026 00:55:14 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
