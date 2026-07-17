@@ -42,29 +42,6 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      5 hrs 18 mins       ███████████░░░░░░░░░░░░░░   44.55 % 
-TypeScript               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Markdown                 1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Blade Template           1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Other                    55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-
-🔥 Editors: 
-OpenCode                 6 hrs 58 mins       ███████████████░░░░░░░░░░   58.53 % 
-Antigravity IDE          2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-Antigravity CLI          1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Opencode Cli             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-
-💻 Operating System: 
-WSL                      11 hrs 55 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -78,7 +55,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2026 02:26:10 UTC
+ Last Updated on 17/07/2026 02:28:41 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
