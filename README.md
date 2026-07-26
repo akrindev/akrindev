@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C697%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C698%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,37 +48,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-PHP                      2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Markdown                 2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Blade Template           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Vue                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Dart                     3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+PHP                      2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Markdown                 2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+TypeScript               1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Blade Template           1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🔥 Editors: 
-OpenCode                 8 hrs 55 mins       ████████████████░░░░░░░░░   63.65 % 
-Antigravity IDE          2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Antigravity CLI          2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Claude Code              25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+OpenCode                 9 hrs 3 mins        ██████████████░░░░░░░░░░░   57.06 % 
+Antigravity IDE          4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Antigravity CLI          2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Claude Code              25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-WSL                      14 hrs              █████████████████████████   100.00 % 
+WSL                      15 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+TypeScript               35 repos            ████████░░░░░░░░░░░░░░░░░   30.17 % 
+JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 
 
 
- Last Updated on 25/07/2026 02:28:52 UTC
+ Last Updated on 26/07/2026 02:35:32 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
