@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C663%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C665%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-321%20hrs%2042%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,44 +50,45 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Dart                     3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-TypeScript               3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-PHP                      2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+TypeScript               4 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
+Dart                     2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+PHP                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Markdown                 1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 
 🔥 Editors: 
-Antigravity IDE          6 hrs 40 mins       █████████████░░░░░░░░░░░░   50.21 % 
-OpenCode                 5 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
-Antigravity CLI          1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Antigravity IDE          6 hrs 40 mins       █████████████░░░░░░░░░░░░   50.15 % 
+OpenCode                 4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.40 % 
+Antigravity CLI          2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-WSL                      13 hrs 17 mins      █████████████████████████   100.00 % 
+WSL                      13 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 51 mins (96.67%)
+⏱ AI Coding Time: 12 hrs 52 mins (96.67%)
 
-✍️ 6,644 lines written by AI, 42 lines written by hand (99.37% AI-written)
+✍️ 7,089 lines written by AI, 42 lines written by hand (99.41% AI-written)
 
-🔤 1,985,732 Input Tokens, 91,402 Output Tokens
+🔤 2,557,362 Input Tokens, 88,249 Output Tokens
 
-💵 $5.49 Estimated AI Cost This Week
+💵 $6.96 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 402 AI Prompts
+🧠 67 AI Sessions, 432 AI Prompts
 
-Mimo                     4,551 lines         ██████████████████░░░░░░░   70.84 % 
-Gemini                   1,860 lines         ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-Opencode-Cli             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Mimo                     4,532 lines         █████████████████░░░░░░░░   66.13 % 
+Gemini                   2,158 lines         ████████░░░░░░░░░░░░░░░░░   31.49 % 
+Antigravity-Cli          150 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Opencode-Cli             13 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.37% of written lines came from AI
-📝 Concise Prompter — average 488 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.78% of changed lines were hand-edited
+🤖 AI-Driven — 99.41% of written lines came from AI
+📄 Detailed Prompter — average 530 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +104,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:23:26 UTC
+ Last Updated on 29/07/2026 02:27:38 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
