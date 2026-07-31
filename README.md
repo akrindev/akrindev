@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C665%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C667%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-323%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -50,60 +50,61 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 55 mins       ████████████░░░░░░░░░░░░░   47.49 % 
-PHP                      1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Dart                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+TypeScript               5 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.75 % 
+Markdown                 2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+PHP                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-OpenCode                 4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
-Antigravity IDE          4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
-Antigravity CLI          1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+OpenCode                 5 hrs 29 mins       █████████████░░░░░░░░░░░░   51.00 % 
+Antigravity IDE          4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
+Antigravity CLI          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Grok Build               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-WSL                      10 hrs 22 mins      █████████████████████████   100.00 % 
+WSL                      10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 7 mins (97.58%)
+⏱ AI Coding Time: 10 hrs 31 mins (97.67%)
 
-✍️ 7,024 lines written by AI, 42 lines written by hand (99.41% AI-written)
+✍️ 19,730 lines written by AI, 42 lines written by hand (99.79% AI-written)
 
-🔤 2,328,313 Input Tokens, 80,816 Output Tokens
+🔤 5,598,320 Input Tokens, 222,867 Output Tokens
 
-💵 $6.17 Estimated AI Cost This Week
+💵 $14.30 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 334 AI Prompts
+🧠 76 AI Sessions, 329 AI Prompts
 
-Mimo                     4,490 lines         █████████████████░░░░░░░░   66.62 % 
-Gemini                   2,100 lines         ████████░░░░░░░░░░░░░░░░░   31.16 % 
-Antigravity-Cli          150 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Mimo                     14,405 lines        ███████████████████░░░░░░   77.89 % 
+Grok                     3,940 lines         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
+Antigravity-Cli          150 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.41% of written lines came from AI
-📄 Detailed Prompter — average 653 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.73% of changed lines were hand-edited
+🤖 AI-Driven — 99.79% of written lines came from AI
+📄 Detailed Prompter — average 803 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               35 repos            ████████░░░░░░░░░░░░░░░░░   30.17 % 
-JavaScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               36 repos            ████████░░░░░░░░░░░░░░░░░   30.77 % 
+JavaScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Svelte                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 
 
 
- Last Updated on 30/07/2026 02:09:45 UTC
+ Last Updated on 31/07/2026 02:38:04 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
