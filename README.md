@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C667%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C674%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-325%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-332%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -50,45 +50,46 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 15 mins       ████████████░░░░░░░░░░░░░   48.75 % 
-Markdown                 2 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-PHP                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               6 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.00 % 
+PHP                      2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Markdown                 1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Other                    1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-OpenCode                 5 hrs 29 mins       █████████████░░░░░░░░░░░░   51.00 % 
-Antigravity IDE          4 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
-Antigravity CLI          51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Grok Build               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+OpenCode                 11 hrs 47 mins      █████████████████░░░░░░░░   69.15 % 
+Antigravity IDE          4 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+Antigravity CLI          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Grok Build               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-WSL                      10 hrs 46 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 31 mins (97.67%)
+⏱ AI Coding Time: 16 hrs 48 mins (98.53%)
 
-✍️ 19,730 lines written by AI, 42 lines written by hand (99.79% AI-written)
+✍️ 22,417 lines written by AI, 42 lines written by hand (99.81% AI-written)
 
-🔤 5,598,320 Input Tokens, 222,867 Output Tokens
+🔤 9,092,480 Input Tokens, 399,165 Output Tokens
 
-💵 $14.30 Estimated AI Cost This Week
+💵 $22.30 Estimated AI Cost This Week
 
-🧠 76 AI Sessions, 329 AI Prompts
+🧠 68 AI Sessions, 387 AI Prompts
 
-Mimo                     14,405 lines        ███████████████████░░░░░░   77.89 % 
-Grok                     3,940 lines         █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Antigravity-Cli          150 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Mimo                     12,375 lines        ███████████████░░░░░░░░░░   59.16 % 
+Deepseek                 4,454 lines         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Grok                     3,940 lines         █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Antigravity-Cli          150 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.79% of written lines came from AI
-📄 Detailed Prompter — average 803 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 99.81% of written lines came from AI
+📄 Detailed Prompter — average 654 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -104,7 +105,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 02:38:04 UTC
+ Last Updated on 01/08/2026 02:36:33 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
