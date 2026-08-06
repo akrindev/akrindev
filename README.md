@@ -50,33 +50,33 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Python                   2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-PHP                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Blade Template           1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+TypeScript               4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+Python                   2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+PHP                      2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Blade Template           1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 🔥 Editors: 
-OpenCode                 17 hrs 25 mins      ████████████████████████░   96.83 % 
-Antigravity CLI          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Grok Build               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+OpenCode                 17 hrs 8 mins       ████████████████████████░   96.78 % 
+Antigravity CLI          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Grok Build               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 💻 Operating System: 
-WSL                      17 hrs 59 mins      █████████████████████████   100.00 % 
+WSL                      17 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 59 mins (100.0%)
+⏱ AI Coding Time: 17 hrs 42 mins (100.0%)
 
 ✍️ 22,919 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,796,622 Input Tokens, 517,654 Output Tokens
+🔤 11,622,080 Input Tokens, 516,267 Output Tokens
 
-💵 $30.09 Estimated AI Cost This Week
+💵 $30.02 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 257 AI Prompts
+🧠 46 AI Sessions, 250 AI Prompts
 
 Mimo                     10,470 lines        ████████████░░░░░░░░░░░░░   48.67 % 
 Deepseek                 7,092 lines         ████████░░░░░░░░░░░░░░░░░   32.97 % 
@@ -85,7 +85,7 @@ Gemini                   10 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 726 characters per prompt
+📄 Detailed Prompter — average 744 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -103,7 +103,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 02:21:22 UTC
+ Last Updated on 06/08/2026 02:24:08 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
