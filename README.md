@@ -38,7 +38,55 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C682%20hrs%2024%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-341%20hrs%2022%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
+Python                   1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+PHP                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Blade Template           1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+
+🔥 Editors: 
+OpenCode                 8 hrs 32 mins       ████████████████████████░   97.92 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+
+💻 Operating System: 
+WSL                      8 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 33 mins (98.19%)
+
+✍️ 3,268 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 18,324,627 Input Tokens, 246,347 Output Tokens
+
+💵 $57.97 Estimated AI Cost This Week
+
+🧠 21 AI Sessions, 82 AI Prompts
+
+Deepseek                 2,672 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 353 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -53,7 +101,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:33:06 UTC
+ Last Updated on 08/08/2026 01:23:03 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
