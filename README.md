@@ -50,40 +50,40 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.83 % 
-Python                   1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-PHP                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Blade Template           1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+TypeScript               2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   37.09 % 
+PHP                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Blade Template           1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-OpenCode                 8 hrs 32 mins       ████████████████████████░   97.92 % 
-Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+OpenCode                 7 hrs 31 mins       ████████████████████████░   97.65 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 💻 Operating System: 
-WSL                      8 hrs 42 mins       █████████████████████████   100.00 % 
+WSL                      7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 33 mins (98.19%)
+⏱ AI Coding Time: 7 hrs 32 mins (97.95%)
 
-✍️ 3,268 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,038 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,324,627 Input Tokens, 246,347 Output Tokens
+🔤 18,107,074 Input Tokens, 218,343 Output Tokens
 
-💵 $57.97 Estimated AI Cost This Week
+💵 $57.30 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 82 AI Prompts
+🧠 16 AI Sessions, 71 AI Prompts
 
-Deepseek                 2,672 lines         █████████████████████████   100.00 % 
+Deepseek                 1,608 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 353 characters per prompt
+📝 Concise Prompter — average 342 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -101,7 +101,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 01:23:03 UTC
+ Last Updated on 09/08/2026 01:35:03 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
