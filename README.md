@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C691%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C694%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-351%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-354%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,45 +50,46 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.38 % 
-Markdown                 2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-Other                    1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Vue                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+PHP                      4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Markdown                 3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Vue                      1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Other                    1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+CSS                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-OpenCode                 9 hrs 54 mins       █████████████████████░░░░   85.44 % 
-Antigravity IDE          1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+OpenCode                 11 hrs 49 mins      ████████████████████░░░░░   79.53 % 
+Antigravity IDE          1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Opencode Cli             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Agent                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-WSL                      11 hrs 36 mins      █████████████████████████   100.00 % 
+WSL                      14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 21 mins (97.87%)
+⏱ AI Coding Time: 14 hrs 37 mins (98.34%)
 
-✍️ 15,274 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,253 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 131,113,231 Input Tokens, 1,964,318 Output Tokens
+🔤 183,940,133 Input Tokens, 2,769,916 Output Tokens
 
-💵 $605.23 Estimated AI Cost This Week
+💵 $944.78 Estimated AI Cost This Week
 
-🧠 93 AI Sessions, 222 AI Prompts
+🧠 111 AI Sessions, 317 AI Prompts
 
-Deepseek                 9,281 lines         ████████████████░░░░░░░░░   62.26 % 
-Spark                    5,315 lines         █████████░░░░░░░░░░░░░░░░   35.65 % 
-Gemini                   175 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Opencode-Cli             137 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 9,347 lines         █████████████░░░░░░░░░░░░   52.33 % 
+Spark                    5,315 lines         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+GPT                      2,246 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Gemini                   414 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Hy                       401 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,693 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 4,431 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -105,7 +106,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 01:47:54 UTC
+ Last Updated on 14/08/2026 01:45:47 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
