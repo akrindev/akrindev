@@ -50,47 +50,47 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.29 % 
-Markdown                 4 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Vue                      3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-TypeScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+PHP                      5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Markdown                 3 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Vue                      3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
+TypeScript               1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 
 🔥 Editors: 
-OpenCode                 14 hrs 13 mins      ████████████████░░░░░░░░░   63.90 % 
-Antigravity IDE          4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Antigravity CLI          2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Opencode Cli             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+OpenCode                 10 hrs 45 mins      ██████████████░░░░░░░░░░░   57.27 % 
+Antigravity IDE          4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Antigravity CLI          2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Opencode Cli             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-WSL                      22 hrs 15 mins      █████████████████████████   100.00 % 
+WSL                      18 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 54 mins (98.39%)
+⏱ AI Coding Time: 18 hrs 26 mins (98.09%)
 
-✍️ 24,058 lines written by AI, 14 lines written by hand (99.94% AI-written)
+✍️ 20,072 lines written by AI, 14 lines written by hand (99.93% AI-written)
 
-🔤 128,802,295 Input Tokens, 2,853,531 Output Tokens
+🔤 124,517,771 Input Tokens, 2,606,702 Output Tokens
 
-💵 $1033.68 Estimated AI Cost This Week
+💵 $964.96 Estimated AI Cost This Week
 
-🧠 154 AI Sessions, 439 AI Prompts
+🧠 132 AI Sessions, 390 AI Prompts
 
-Deepseek                 12,768 lines        ██████████████░░░░░░░░░░░   55.24 % 
-Spark                    5,315 lines         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-GPT                      2,246 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-Gemini                   1,915 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Hy                       401 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Deepseek                 8,930 lines         ████████████░░░░░░░░░░░░░   46.32 % 
+Spark                    5,315 lines         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+GPT                      2,246 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Gemini                   1,915 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Hy                       401 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 3,340 characters per prompt
+🤖 AI-Driven — 99.93% of written lines came from AI
+📚 Verbose Prompter — average 1,717 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +106,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 01:07:02 UTC
+ Last Updated on 18/08/2026 01:05:21 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
