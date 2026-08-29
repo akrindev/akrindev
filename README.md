@@ -50,43 +50,43 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 45 mins       █████████████░░░░░░░░░░░░   53.91 % 
-Bash                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Vue                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Other                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+PHP                      3 hrs 20 mins       ██████████████░░░░░░░░░░░   57.46 % 
+Vue                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 40 mins       █████████████░░░░░░░░░░░░   52.80 % 
-OpenCode                 2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
-Antigravity CLI          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Antigravity IDE          3 hrs 33 mins       ███████████████░░░░░░░░░░   61.27 % 
+OpenCode                 1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Antigravity CLI          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 💻 Operating System: 
-WSL                      6 hrs 58 mins       █████████████████████████   100.00 % 
+WSL                      5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 53 mins (98.84%)
+⏱ AI Coding Time: 5 hrs 43 mins (98.61%)
 
-✍️ 4,797 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 3,146 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 3,590,453 Input Tokens, 388,645 Output Tokens
+🔤 3,321,082 Input Tokens, 299,496 Output Tokens
 
-💵 $332.47 Estimated AI Cost This Week
+💵 $260.20 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 75 AI Prompts
+🧠 15 AI Sessions, 58 AI Prompts
 
-Spark                    2,846 lines         ████████████████░░░░░░░░░   63.31 % 
-Opencode-Cli             1,649 lines         █████████░░░░░░░░░░░░░░░░   36.69 % 
+Opencode-Cli             1,649 lines         ██████████████░░░░░░░░░░░   55.28 % 
+Spark                    1,334 lines         ███████████░░░░░░░░░░░░░░   44.72 % 
 Mimo                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 274 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 303 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -102,7 +102,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 09:34:45 UTC
+ Last Updated on 29/08/2026 05:40:19 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
