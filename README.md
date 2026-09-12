@@ -50,40 +50,40 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      3 hrs 21 mins       ███████████░░░░░░░░░░░░░░   42.69 % 
-TypeScript               1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-Image (png)              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+PHP                      2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   40.14 % 
+TypeScript               1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Image (png)              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-OpenCode                 7 hrs 41 mins       ████████████████████████░   97.52 % 
-Antigravity IDE          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+OpenCode                 6 hrs 27 mins       ████████████████████████░   97.07 % 
+Antigravity IDE          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 💻 Operating System: 
-WSL                      7 hrs 52 mins       █████████████████████████   100.00 % 
+WSL                      6 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 52 mins (100.0%)
+⏱ AI Coding Time: 6 hrs 39 mins (100.0%)
 
-✍️ 5,949 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,609 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,515,968 Input Tokens, 581,785 Output Tokens
+🔤 4,767,455 Input Tokens, 466,871 Output Tokens
 
-💵 $778.75 Estimated AI Cost This Week
+💵 $651.54 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 96 AI Prompts
+🧠 22 AI Sessions, 69 AI Prompts
 
-Spark                    4,585 lines         █████████████████████████   100.00 % 
+Spark                    3,722 lines         █████████████████████████   100.00 % 
 Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 304 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 399 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -100,7 +100,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 03:02:42 UTC
+ Last Updated on 12/09/2026 03:09:35 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
