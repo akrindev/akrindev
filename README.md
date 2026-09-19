@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C766%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C768%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-428%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-431%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,40 +50,40 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               22 hrs 15 mins      ████████████████░░░░░░░░░   62.06 % 
-PHP                      8 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Markdown                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Image (png)              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               23 hrs 9 mins       ███████████████░░░░░░░░░░   60.78 % 
+PHP                      8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Markdown                 2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Image (png)              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-OpenCode                 33 hrs 14 mins      ███████████████████████░░   92.69 % 
-CLI                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+OpenCode                 35 hrs 29 mins      ███████████████████████░░   93.12 % 
+CLI                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
 
 💻 Operating System: 
-WSL                      35 hrs 51 mins      █████████████████████████   100.00 % 
+WSL                      38 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 38 hrs 6 mins (100.0%)
 
-✍️ 39,121 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 40,124 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 73,089,842 Input Tokens, 3,472,601 Output Tokens
+🔤 74,924,671 Input Tokens, 3,730,907 Output Tokens
 
-💵 $3161.83 Estimated AI Cost This Week
+💵 $3310.74 Estimated AI Cost This Week
 
-🧠 128 AI Sessions, 591 AI Prompts
+🧠 139 AI Sessions, 619 AI Prompts
 
-Spark                    31,956 lines        █████████████████████████   100.00 % 
+Spark                    33,041 lines        █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 585 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 603 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -100,7 +100,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 03:13:51 UTC
+ Last Updated on 19/09/2026 03:10:13 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
