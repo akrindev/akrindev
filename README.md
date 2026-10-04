@@ -50,37 +50,37 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               9 hrs 29 mins       ████████████░░░░░░░░░░░░░   47.31 % 
-PHP                      4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Markdown                 2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Image (png)              1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-Other                    45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+TypeScript               6 hrs 4 mins        ███████████░░░░░░░░░░░░░░   45.37 % 
+PHP                      3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Image (png)              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🔥 Editors: 
-OpenCode                 20 hrs 3 mins       █████████████████████████   100.00 % 
+OpenCode                 13 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      20 hrs 3 mins       █████████████████████████   100.00 % 
+WSL                      13 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 23 mins (100.0%)
 
-✍️ 13,124 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,983 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,938,887 Input Tokens, 1,321,118 Output Tokens
+🔤 17,278,950 Input Tokens, 781,597 Output Tokens
 
-💵 $1325.90 Estimated AI Cost This Week
+💵 $946.74 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 170 AI Prompts
+🧠 42 AI Sessions, 123 AI Prompts
 
-Spark                    8,551 lines         █████████████████████████   100.00 % 
+Spark                    5,487 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 655 characters per prompt
+📄 Detailed Prompter — average 818 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -98,7 +98,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 03:49:50 UTC
+ Last Updated on 04/10/2026 04:21:11 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
