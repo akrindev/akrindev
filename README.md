@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 ### 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C816%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C820%20hrs%2036%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-480%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-484%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -50,43 +50,43 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               7 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   41.82 % 
-PHP                      3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Markdown                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-JavaScript               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript               8 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.02 % 
+PHP                      6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+Markdown                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+JavaScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🔥 Editors: 
-OpenCode                 15 hrs 49 mins      █████████████████████░░░░   82.77 % 
-Opencode Cli             2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Antigravity IDE          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+OpenCode                 19 hrs 31 mins      █████████████████████░░░░   84.49 % 
+Opencode Cli             2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Antigravity IDE          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-WSL                      19 hrs 6 mins       █████████████████████████   100.00 % 
+WSL                      23 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 6 mins (100.0%)
+⏱ AI Coding Time: 23 hrs 6 mins (100.0%)
 
-✍️ 11,394 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 18,482 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,757,201 Input Tokens, 1,279,386 Output Tokens
+🔤 27,580,665 Input Tokens, 1,676,174 Output Tokens
 
-💵 $1203.01 Estimated AI Cost This Week
+💵 $1285.35 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 155 AI Prompts
+🧠 65 AI Sessions, 182 AI Prompts
 
-Spark                    6,440 lines         ████████████████████░░░░░   79.60 % 
-Gemini                   757 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Sonnet                   743 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-MiMo                     147 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Spark                    7,064 lines         ████████████████████░░░░░   81.06 % 
+Gemini                   757 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Sonnet                   743 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+MiMo                     147 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 646 characters per prompt
+📄 Detailed Prompter — average 690 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -104,7 +104,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 04:21:18 UTC
+ Last Updated on 08/10/2026 04:33:00 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
