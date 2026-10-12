@@ -50,45 +50,44 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.66 % 
-TypeScript               7 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-Blade Template           2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Markdown                 2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Other                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+PHP                      7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.23 % 
+TypeScript               4 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Blade Template           2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 🔥 Editors: 
-OpenCode                 22 hrs 46 mins      ██████████████████████░░░   86.00 % 
-Opencode Cli             2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Antigravity IDE          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-CLI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+OpenCode                 18 hrs 29 mins      ██████████████████████░░░   86.78 % 
+Opencode Cli             2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+Antigravity CLI          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+CLI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-WSL                      26 hrs 29 mins      █████████████████████████   100.00 % 
+WSL                      21 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 29 mins (100.0%)
+⏱ AI Coding Time: 21 hrs 18 mins (100.0%)
 
-✍️ 19,181 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 14,814 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 32,143,798 Input Tokens, 2,006,947 Output Tokens
+🔤 23,767,707 Input Tokens, 1,593,774 Output Tokens
 
-💵 $1469.26 Estimated AI Cost This Week
+💵 $1022.91 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 202 AI Prompts
+🧠 40 AI Sessions, 154 AI Prompts
 
-Spark                    7,616 lines         █████████████████████░░░░   82.19 % 
-Gemini                   757 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Sonnet                   743 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-MiMo                     147 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Opus                     3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Spark                    5,153 lines         █████████████████████░░░░   85.27 % 
+Sonnet                   743 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+MiMo                     147 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 366 characters per prompt
+📝 Concise Prompter — average 403 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -106,7 +105,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 04:02:54 UTC
+ Last Updated on 12/10/2026 04:22:15 UTC
 <!--END_SECTION:waka-->
 
 ![Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=akrindev&theme=github_dark&layout=compact)
